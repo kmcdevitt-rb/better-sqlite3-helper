@@ -24,7 +24,7 @@
     "mkdirp": "^1.0.4"
   },
   "peerDependencies": {
-    "better-sqlite3": "^7.1.2"
+    "better-sqlite3": ">=7.1.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
